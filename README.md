@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mousemari
 - 👀 I’m interested in front-end, dev, UI/UX and other design
 - 🌱 I’m currently learning how to do something useful, pretty or at least something that works
-- 💞️ I’m looking to collaborate on mentors. notice me, sempai.
+- 💞️ I’m looking to collaborate on mentors. notice me, senpai.
 - 📫 How to reach me: email — mousemari@mail.ru; inst — @mousemari, vk — vk.com/mousemari
 
 I'm here just a little newbie, but I hope I grow up as a big smart mouse.
